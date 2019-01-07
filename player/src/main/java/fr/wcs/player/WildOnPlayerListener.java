@@ -1,4 +1,4 @@
-package fr.wildcodeschool.mediaplayer.player;
+package fr.wcs.player;
 
 import android.media.MediaPlayer;
 
